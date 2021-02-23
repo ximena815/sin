@@ -1,0 +1,12 @@
+D:\Users\User\Documents\tutoria\sin\sin\bin\Debug\netcoreapp3.1\sin.exe
+D:\Users\User\Documents\tutoria\sin\sin\bin\Debug\netcoreapp3.1\sin.deps.json
+D:\Users\User\Documents\tutoria\sin\sin\bin\Debug\netcoreapp3.1\sin.runtimeconfig.json
+D:\Users\User\Documents\tutoria\sin\sin\bin\Debug\netcoreapp3.1\sin.runtimeconfig.dev.json
+D:\Users\User\Documents\tutoria\sin\sin\bin\Debug\netcoreapp3.1\sin.dll
+D:\Users\User\Documents\tutoria\sin\sin\bin\Debug\netcoreapp3.1\sin.pdb
+D:\Users\User\Documents\tutoria\sin\sin\obj\Debug\netcoreapp3.1\sin.AssemblyInfoInputs.cache
+D:\Users\User\Documents\tutoria\sin\sin\obj\Debug\netcoreapp3.1\sin.AssemblyInfo.cs
+D:\Users\User\Documents\tutoria\sin\sin\obj\Debug\netcoreapp3.1\sin.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\tutoria\sin\sin\obj\Debug\netcoreapp3.1\sin.dll
+D:\Users\User\Documents\tutoria\sin\sin\obj\Debug\netcoreapp3.1\sin.pdb
+D:\Users\User\Documents\tutoria\sin\sin\obj\Debug\netcoreapp3.1\sin.genruntimeconfig.cache
